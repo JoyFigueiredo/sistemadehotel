@@ -18,7 +18,7 @@ O que tem em um sistema basico de hotelaria:
        ┌─────┼─────┐             ┌────────┼─────────┐
        │     │     │             │        │         │
     Hóspede Quarto Reserva     Pagamento Relatórios Usuários
-                                     
+                                  
                                       │
                               Integrações futuras
                                       │
